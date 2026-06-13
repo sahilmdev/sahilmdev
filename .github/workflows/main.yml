@@ -6,6 +6,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # This is critical — allows creating branches
+
     steps:
       - uses: actions/checkout@v4
       
@@ -15,10 +18,10 @@ jobs:
           outputs: |
             snake-dark.svg?palette=github-dark
           
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: .
+          keep_files: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
