@@ -12,13 +12,9 @@
 
 Final-year CS student building full-stack applications, ML systems, and developer tools.<br/>
 Working across the stack — React frontends, Node.js backends, Python data pipelines.<br/>
-Open to engineering roles and internships from **June 2026**.
-
-<br/>
+Open to engineering roles and internships from **July 2026**.
 
 </div>
-
----
 
 <br/>
 
@@ -32,13 +28,9 @@ Open to engineering roles and internships from **June 2026**.
 
 <br/>
 
----
-
 <br/>
 
 ## Projects
-
-<br/>
 
 ### GitLane &nbsp;·&nbsp; [repo](https://github.com/sahilmdev/gitlane)
 *Offline Git client for developers*
@@ -126,28 +118,6 @@ Financial planning and analysis platform. React frontend with a Node.js backend.
 
 <br/>
 
----
-
-<br/>
-
-## Hackathons
-
-<div align="center">
-
-| Event | Result |
-|:------|:------:|
-| Smart India Hackathon | **Winner** |
-| Odoo Hackathon 2025 | Online Final + Offline Final |
-| SPIT Hack 2026 | Participant |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## GitHub Metrics
 
 <div align="center">
@@ -158,26 +128,17 @@ Financial planning and analysis platform. React frontend with a Node.js backend.
 </div>
 <br/>
 
----
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmdev&theme=github-dark&hide_border=true&bg_color=0f172a&color=94a3b8&line=3b82f6&point=cbd5e1" width="100%" />
-
-</div>
 
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/sahilmdev" alt="Sahil Mehta's GitHub Contribution Chart" />
+![snake](https://raw.githubusercontent.com/sahilmdev/sahilmdev/output/snake-dark.svg)
 
 </div>
 
 <div align="center">
 
 <sub>Building · Shipping · Iterating</sub>
-
 
 </div>
