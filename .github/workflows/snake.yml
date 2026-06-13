@@ -7,21 +7,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # This is critical — allows creating branches
+      contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
       
-      - uses: Platane/snk@v3
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: sahilmdev
           outputs: |
-            snake-dark.svg?palette=github-dark
-          
-      - uses: crazy-max/ghaction-github-pages@v4
+            dist/snake-dark.svg?palette=github-dark
+      
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: .
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
           keep_files: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
