@@ -4,9 +4,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilmdev)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahil.m.mehta18@gmail.com)
 
 <br/>
 
@@ -36,10 +35,10 @@ Open to engineering roles and internships from **July 2026**.
 
 ## Projects
 
-### GitLane &nbsp;·&nbsp; [repo](https://github.com/sahilmdev/gitlane)
+### GitLane &nbsp;·&nbsp; [repo](https://github.com/sahilmdev/gitlane) &nbsp;·&nbsp; [apk](https://expo.dev/accounts/abcdefghi18/projects/gitlane-offline-git-client/builds/2946ad60-f9cc-4359-bacd-c060d3b78dbf)
 *Offline Git client for developers*
 
-Cross-platform desktop application for managing Git repositories without a network dependency. Commit graph visualization, local branch management, and repository operations — fully offline.
+Cross-platform desktop application for managing Git repositories without a network dependency. Commit graph visualization, local branch management, and repository operations, fully offline.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3b82f6)
 ![Electron](https://img.shields.io/badge/Electron-1e293b?style=flat-square&logo=electron&logoColor=9ca3af)
@@ -59,35 +58,27 @@ Trading strategy sandbox built in TypeScript. Lets users test investment approac
 
 <br/>
 
-### Smart Society — Mavericks &nbsp;·&nbsp; [repo](https://github.com/sahilmdev/smart-society-mavericks)
-*Smart India Hackathon — Winner*
-
-Civic infrastructure management platform built for SIH. Handles smart society operations across multiple real-world use cases. Full-stack TypeScript under hackathon constraints.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3b82f6)
-![React](https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=38bdf8)
-![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=4ade80)
-
-<br/>
-
-### Odoo Hackathon 2025 — Offline Final &nbsp;·&nbsp; [repo](https://github.com/sahilmdev/odoo-hack-offline-final) &nbsp;·&nbsp; [live](https://20-december-hack.vercel.app)
+### Odoo Hackathon 2025 &nbsp;·&nbsp; [repo](https://github.com/sahilmdev/odoo-hack-offline-final) &nbsp;·&nbsp; [live](https://20-december-hack.vercel.app)
 *National hackathon finalist*
 
-Full-stack product built and deployed within 24 hours at the Odoo national offline finals. Reached both the online and offline finals.
+Full-stack TypeScript application built during Odoo hackathon offline finals. Features include [add specific features here - e.g., "dashboard, user auth, data visualization"] and real-time deployment on Vercel.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3b82f6)
 ![React](https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=38bdf8)
 ![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=4ade80)
+![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white)
 
 <br/>
 
-### SPIT Hack 2026 &nbsp;·&nbsp; [repo](https://github.com/sahilmdev/spit-hack-abstract-sol)
-*Python ML project*
+### Smart Society — Mavericks &nbsp;·&nbsp; [repo](https://github.com/sahilmdev/smart-society-mavericks)
+*Civic infrastructure management platform*
 
-Computer vision and ML pipeline built at SPIT Hack. Python backend with a React frontend interface.
+Full-stack TypeScript platform for residential society operations. Built during Smart India Hackathon. Features include visitor management, complaint tracking, maintenance scheduling, and multi-role dashboards (admin, resident, guard, tech). 
 
-![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=facc15)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3b82f6)
 ![React](https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=38bdf8)
+![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=4ade80)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=4ade80)
 
 <br/>
 
@@ -108,17 +99,6 @@ Player performance prediction using historical IPL data. Feature engineering on 
 ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=facc15)
 ![Jupyter](https://img.shields.io/badge/Jupyter-1e293b?style=flat-square&logo=jupyter&logoColor=f97316)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1e293b?style=flat-square&logo=scikitlearn&logoColor=f97316)
-
-<br/>
-
-### Aspire Financials &nbsp;·&nbsp; [repo](https://github.com/sahilmdev/Aspire-Financials)
-*Fintech platform*
-
-Financial planning and analysis platform. React frontend with a Node.js backend.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=facc15)
-![React](https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=38bdf8)
-![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=4ade80)
 
 <br/>
 
